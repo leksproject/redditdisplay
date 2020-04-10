@@ -1,4 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is an single page application which lets you browse through reddit. 
+It provides the list of posts from a selected subreddit. The selected subreddit is being highlighted. Its implemented in React, redux. 
 
 ## Available Scripts
 
